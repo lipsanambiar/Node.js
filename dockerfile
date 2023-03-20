@@ -16,7 +16,7 @@ COPY . .
 
 #Buid
 
-EXPOSE 3030
+EXPOSE 3040
 
 
 CMD [ "node", "index.js" ]
